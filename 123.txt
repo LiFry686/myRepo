@@ -1,11 +1,6 @@
 111
 222
 333
-<<<<<<< Updated upstream
 444
-=======
-43323423423423422
-234
-iffgdg
 sdfsdf
->>>>>>> Stashed changes
+
